@@ -1,5 +1,6 @@
 # 1. introduction of androidTutorial
 
+https://zhuanlan.zhihu.com/p/34584694
 
 点击 New SSH key，你需要输入 Title 和 Key，但是你现在没有 key，往下看
 打开 Git Bash
