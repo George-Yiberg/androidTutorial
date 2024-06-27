@@ -25,8 +25,6 @@ git clone git@github.com:George-Yiberg/androidTutorial.git
 
 
 
-
-
 复制ubuntu ~/.ssh/文件夹下的三个文件  至Windows 用户主目录的ssh目录下。  如果没有这个目录执行ssh-keygen之后就会有
 
 
